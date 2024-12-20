@@ -90,3 +90,5 @@ endmodule
 
 
 **RESULTS**
+
+sucessfully implemented T flipflop using verilog and validating their functionality using their functional tables.
